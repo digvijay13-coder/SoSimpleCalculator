@@ -20,7 +20,7 @@ It performs simple arithmetic operations: addition, subtraction, multiplication,
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+- **JavaScript **
 
 ---
 
